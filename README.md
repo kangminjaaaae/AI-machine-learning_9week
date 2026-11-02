@@ -1,3 +1,2 @@
-# AI-machine-learning_9weeks
-Practice
-안녕하세요
+# 미션1
+안녕하세요 강민재입니다
